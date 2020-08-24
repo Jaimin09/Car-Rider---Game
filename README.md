@@ -17,4 +17,5 @@ This game made using pygame library of python has :
 - obstacle.py : is used to generate traffic
 - player.py : is used to create control for the player car
 
-![carsgame-ss](https://github.com/Jaimin09/Cars-Game/blob/master/Images/Cars%20Game%20Clip.gif?raw=true = 20x100)
+![carsgame-ss](https://github.com/Jaimin09/Cars-Game/blob/master/Images/Cars%20Game%20Clip.gif?raw=true)
+<img src="https://github.com/Jaimin09/Cars-Game/blob/master/Images/Cars%20Game%20Clip.gif?raw=true" width="200">
