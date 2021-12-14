@@ -1,4 +1,4 @@
-# Cars-Game
+# Car Rider - Game
 A fun multi-level cars game, where the objective of the player car is to reach the destination without any hit from the traffic or boundaries.
 
 Playing this game refreshes our childhood memory, where we must have had played the similar game in our gaming console.
